@@ -14,7 +14,6 @@ Teniendo en cuenta lo anterior, se analizará una diversidad de datos referidos 
 mundial factores como la heterogeneidad en el acceso a la energía eléctrica, el consumo de
 energía total, generación de energía eléctrica según se empleen fuentes de energía
 convencionales o renovables, y emisiones de CO2 asociadas a dicha producción eléctrica.
------
 
 ## Color Reference
 
