@@ -11,7 +11,7 @@ El dashboard diseñado se orienta a utilización por personal de nivel táctico,
 
 Para ello, el dashboard cuenta con información, en primer lugar, del consumo y producción de la energía convencional y sustentable desde donde se recopiló información de la cantidad de estos parámetros energéticos, pudiendo observar esto, también, a través de una evolución temporal comparativa. Además, se especificó presentar una tarjeta con el balance energético y dos tops: uno, con los cinco países con mayor producción de energía convencional y el otro con los cinco países con mayor consumo de energía convencional. En segundo lugar, el tablero permite observar los niveles de acceso energético, diferenciando entre países con alto e insuficiente nivel energético, que tienen los diferentes países miembros, y además cómo estos niveles marcan su evolución a través del período de análisis, sumado a la comparación del acceso según el lugar de residencia (urbano/rural). Por último, se presentan datos que permiten observar la evolución comparativa de emisiones y la participación de las renovables en la producción eléctrica, la distribución de emisiones a nivel mundial, e incluyendo un top cinco de países emisores.
 
-## Color Reference
+## Referencias para la paleta de colores
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
@@ -23,13 +23,13 @@ Para ello, el dashboard cuenta con información, en primer lugar, del consumo y 
 | # 6 | ![#5C0001](https://via.placeholder.com/10/5C0001?text=+) #5C0001 |
 
 
-## Authors
+## Autores
 
 - [Francisco Risculese](https://www.linkedin.com/in/francisco-risculese/)
 - María Oliva
 
 
-## Documentation
+## Documentación
 
 [Website del Banco Mundial](https://data.worldbank.org)
 
@@ -49,10 +49,10 @@ Para ello, el dashboard cuenta con información, en primer lugar, del consumo y 
 
 #### ¿Qué hipótesis de trabajo se empleó?
 
-Se parte desde la hipótesis de que los países desarrollados poseen una matriz energética más desarrollada que aquellos países en vías de desarrollo. Esto aplica tanto para las energías renovables como para las convencionales.
+Se parte desde la hipótesis que los países desarrollados poseen una matriz energética más desarrollada que aquellos países en vías de desarrollo. Ésto aplica tanto para las energías renovables como para las convencionales.
 Se considera que el grado de acceso energético a la electricidad, el consumo final de energía y la producción en matriz de electricidad de los países subdesarrollados iría en incremento a medida que avancen los años.
 
-#### ¿Cuáes herramientas informáticas se emplearon?
+#### ¿Cuáles herramientas informáticas se emplearon?
 
 - Microsoft Excel
 - Google Slides
