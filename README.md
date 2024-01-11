@@ -62,7 +62,6 @@ Se considera que el grado de acceso energético a la electricidad, el consumo fi
 - Google Slides
 - Microsoft Visio
 - Power BI
----
 
 ![ODS](https://github.com/FRTalas99/frtalas99/assets/147644289/84d3f948-148a-4b26-8c8d-faafc136450c)
 ---
