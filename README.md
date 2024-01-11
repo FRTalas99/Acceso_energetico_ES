@@ -5,15 +5,11 @@
 
 ## Alcance del proyecto
 
-El objetivo es establecer una línea de base estadística para comprender, a nivel
-mundial, la heterogeneidad de acceso, consumo y producción de las energías convencionales y
-del tipo sustentables, junto a las emisiones de dióxido de carbono (CO2).
+El objetivo es establecer una línea de base estadística para comprender, a nivel mundial, la heterogeneidad del acceso, consumo y producción de la energía convencional y del tipo sustentable. A su vez, poder observar la emisión de CO2 generada por la producción de la energía.
 
-Teniendo en cuenta lo anterior, se analizará una diversidad de datos referidos al periodo
-1990-2014, buscando establecer una línea de base estadística para comprender, a nivel
-mundial factores como la heterogeneidad en el acceso a la energía eléctrica, el consumo de
-energía total, generación de energía eléctrica según se empleen fuentes de energía
-convencionales o renovables, y emisiones de CO2 asociadas a dicha producción eléctrica.
+El dashboard diseñado se orienta a utilización por personal de nivel táctico, involucrando tanto a líderes como representantes de los países miembros de las Naciones Unidas. La finalidad de la herramienta es que los líderes miembros cuenten con una línea base, a 2014, para planificar las políticas derivadas del ODS 7.
+
+Para ello, el dashboard cuenta con información, en primer lugar, del consumo y producción de la energía convencional y sustentable desde donde se recopiló información de la cantidad de estos parámetros energéticos, pudiendo observar esto, también, a través de una evolución temporal comparativa. Además, se especificó presentar una tarjeta con el balance energético y dos tops: uno, con los cinco países con mayor producción de energía convencional y el otro con los cinco países con mayor consumo de energía convencional. En segundo lugar, el tablero permite observar los niveles de acceso energético, diferenciando entre países con alto e insuficiente nivel energético, que tienen los diferentes países miembros, y además cómo estos niveles marcan su evolución a través del período de análisis, sumado a la comparación del acceso según el lugar de residencia (urbano/rural). Por último, se presentan datos que permiten observar la evolución comparativa de emisiones y la participación de las renovables en la producción eléctrica, la distribución de emisiones a nivel mundial, e incluyendo un top cinco de países emisores.
 
 ## Color Reference
 
